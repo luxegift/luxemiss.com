@@ -1,0 +1,29 @@
+{
+  "name": "luxemiss",
+  "version": "1.0.0",
+  "description": "Shop fine jewelry creations of timeless beauty and superlative craftsmanship that will be treasured always. Discover more at [Luxemiss Gifts for Her](https://luxemiss.com)",
+  "main": "index.js",
+  "homepage": "https://luxemiss.com",
+  "author": {
+    "name": "luxemiss",
+    "email": "hello@luxemiss.com",
+    "url": "https://luxemiss.com"
+  },
+  "keywords": [
+    "gatsby",
+    "ghost",
+    "JAMStack"
+  ],
+  "engines": {
+    "node": ">= 12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luxegift/luxemiss.com.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
